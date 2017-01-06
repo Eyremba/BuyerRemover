@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JoachimVandersmissen/BuyerRemover.svg?branch=master)](https://travis-ci.org/JoachimVandersmissen/BuyerRemover)
+[![Jitpack](https://jitpack.io/v/JoachimVandersmissen/BuyerRemover.svg)](https://jitpack.io/#JoachimVandersmissen/BuyerRemover)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # BuyerRemover
 Removes buyers from a resource on the Spigot forums or other Xenforo forums using bdPayGates. You must be the creator of the resource to use this.
