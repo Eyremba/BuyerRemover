@@ -4,6 +4,7 @@
 # BuyerRemover
 Removes buyers from a resource on the Spigot forums or other Xenforo forums using bdPayGates. You must be the creator of the resource to use this.
 To use this program, simply lookup the resource id (You can find this in the url) and the buyer ids (You can find those in the profile url).
+*NOTE: this currently doesn't work with 2FA, sorry*
 
 ## CLI
 This program can be used by typing `java -jar BuyerRemover.jar <url> <username> <password> <resource id> <target id 1> <target id 2>...` in your CLI
