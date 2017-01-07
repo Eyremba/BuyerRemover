@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # BuyerRemover
 Removes buyers from a resource on the Spigot forums or other Xenforo forums using bdPayGates. You must be the creator of the resource to use this.
-To use this program, simply lookup the resource id (You can find this in the url) and the buyer ids (You can find those in the profile url).
+To use this program, simply lookup the resource id (You can find this in the url) and the buyer ids (You can find those in the profile url).  
 *NOTE: this currently doesn't work with 2FA, sorry*
 
 ## CLI
